@@ -7,5 +7,6 @@ Rencana Pembelajaran
   *Flex-box
   *web responsif
 -JavaScript
+  *react
   *Angular
   *Var
