@@ -5,4 +5,7 @@ Rencana Pembelajaran
   *form
 -CSS
   *Flex-box
+  *web responsif
 -JavaScript
+  *Angular
+  *Var
